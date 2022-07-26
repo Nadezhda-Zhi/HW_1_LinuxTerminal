@@ -1,1 +1,1 @@
-# HW_1_LinuxTerminal
+# HW_JavaScript
